@@ -1,6 +1,7 @@
 # PS1
-first problem set
 
-This problem set has two parts: the first part should be completed one at a time to practice your github pushing and pulling.  The second part can be completed working together.
+The first problem set is a group assignment and has two parts: 
+  1. Part 1 is an exercise in using the actions of GitHub, specifically pushing and pulling a repository after making edits. This needs to be completed one at a time.
+  2. Part 2 involves coding fundamentals of python. This can be completed by working together in your group.
 
-Open the PS1.py file and read through the comments for step-by-step instructions!
+To get started, clone the repository and open the PS1.py file. The comments in this file provide step-by-step instructions!
